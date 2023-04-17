@@ -4,10 +4,10 @@
   "layout": "LAYOUT",
   "layer_names": [
     "base",
+    "mac",
     "keypad",
     "fn",
-    "mod",
-    "mac"
+    "mod"
   ],
   "layers": [
     [
